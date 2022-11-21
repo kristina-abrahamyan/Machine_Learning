@@ -1,4 +1,4 @@
-# Machine Learning Questiosn
+# Machine Learning Questions
 
 1. Are we going to be touching upon K-Nearest Neighbors algorithm?
 2. I am not sure what Q8 is even asking: it is about the difference between L1 and L2 regularisation
